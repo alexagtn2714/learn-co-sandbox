@@ -1,0 +1,8 @@
+h1 {color: black; text-align: center; text-shadow: 2px 2px #ff0000;} 
+
+body {background-color: yellow; text-align: center; font-family: 'Indie Flower', cursive; font-size: 70; text-shadow: 2px 2px #ff0000;}
+
+
+#my_id {
+  color: blue;
+}
